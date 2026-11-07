@@ -1,5 +1,7 @@
 # Movara
 
+![Movara logo](assets/movara-social-preview.jpg)
+
 Your movies and TV shows, together in one place.
 
 Movara is a personal media server and playback experience for organizing and watching your own media library. Run the server on a computer you control, add your media folders, and connect through a web browser or a compatible Movara client. Your library stays on your server; Movara does not provide movies or TV shows.
