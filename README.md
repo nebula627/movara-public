@@ -40,3 +40,7 @@ Your server is under your control. Optional third-party integrations may process
 ## Source and third-party software
 
 The Movara application source is maintained separately and is not included in this public repository. Third-party components and services are subject to their respective license terms.
+
+## Copyright and license
+
+Movara's original application materials, branding, artwork, and documentation are proprietary and all rights are reserved. No permission is granted to copy, modify, create derivative works from, or redistribute these materials without prior written permission. See the [LICENSE](LICENSE) file. Third-party components remain under their own licenses.
